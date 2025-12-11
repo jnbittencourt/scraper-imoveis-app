@@ -42,7 +42,8 @@ Na página de releases, baixe o arquivo `.exe`.
 ## Observações importantes
 
 - Se o Zap Imóveis mudar seu layout, o programa pode precisar de atualização.  
-- O tempo de execução depende da quantidade de anúncios e da velocidade da internet.  
+- O tempo de execução depende da quantidade de anúncios e da velocidade da internet.
+- O scraper possui links fixos que podem ser alterados conforme necessidade. Ex.: Para esta versão, são considerados apenas bairros do Rio de Janeiro.
 
 ---
 
